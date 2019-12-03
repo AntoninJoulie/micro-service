@@ -37,7 +37,7 @@ public class Utilisateur {
     return prenom;
   }
 
-  public void setEmail(String prenom) {
+  public void setPrenom(String prenom) {
     this.prenom = prenom;
   }
   
